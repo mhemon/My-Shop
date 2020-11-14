@@ -1,6 +1,5 @@
 # My-Shop
-My Shop Is an Ecommerce app. In development...
-
+My Shop Is an Ecommerce app. This project still in development mode
 <div>
 <img src="Images/image1.png" width="280"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="Images/image2.png" width="280"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
